@@ -1,5 +1,5 @@
 # How-to
-How to do various things. I'd recommend going through them in the order provided.
+How to do various things.
 
 1. [Write Code](coding/README.md)
 1. [Build a Server and Homelab](https://github.com/jasoncolburne/homelab)
